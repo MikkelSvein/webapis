@@ -1,0 +1,7 @@
+node_modules/
+database/
+shared/
+webapis/
+install-all.bat
+start-all.bat
+stop-all.bat
